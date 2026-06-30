@@ -1,2 +1,5 @@
 User-agent: *
-Allow: /
+  Allow: /
+
+  Sitemap: https://joshbond123.github.io/VSESC/sitemap.xml
+  
